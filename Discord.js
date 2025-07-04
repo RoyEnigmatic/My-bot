@@ -1,6 +1,6 @@
 // disocrd.js
 const { Client, GatewayIntentBits, Partials } = require('discord.js');
-const TOKEN = 'MTM3MTQ1MjY4ODUwNzg2MzA5MA.Gkaei1.S_bSqobeVJaYCMLebF4Vgd3SAVLyfstINasaFU';
+const TOKEN = '_token_';
 
 const client = new Client({
   intents: [
